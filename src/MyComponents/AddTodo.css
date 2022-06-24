@@ -1,0 +1,27 @@
+#name{
+    display:  flex;
+    width: 350px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+#email{
+    display:  flex;
+    width: 350px;
+    border: 2px solid black;
+    font-size: 20px;
+    
+}
+#role{
+    display:  flex;
+    width: 350px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+label{
+    font-size: 25px;
+    color:rgb(56, 121, 14);
+}
+label:hover{
+    
+    color: blue;
+}
